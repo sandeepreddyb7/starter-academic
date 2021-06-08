@@ -10,7 +10,7 @@ role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: TCOMS
+- name: {{< figure src="tcoms.png">}}
   url: https://tcoms.sg
 
 # Short bio (displayed in user profile at end of posts)
