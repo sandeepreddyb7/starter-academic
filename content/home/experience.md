@@ -26,8 +26,8 @@ experience:
     company: TCOMS
     company_url: ''
     company_logo: org-gc
-    location: California
-    date_start: '2021-03-16'
+    location: Singapore
+    date_start: '2020-03-16'
     date_end: ''
     description: |2-
         Development of digital twin of deep water ocean basin
@@ -40,8 +40,8 @@ experience:
   - title: Research Engineer
     company: National University of Singapore
     company_url: ''
-    company_logo: org-x
-    location: California
+    company_logo: nus
+    location: Singapore
     date_start: '2019-09-25'
     date_end: '2020-03-13'
     description: Model order reduction for nonlinear evolutions of ocean waves 
