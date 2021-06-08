@@ -39,7 +39,7 @@ experience:
         
   - title: Research Engineer
     company: National University of Singapore
-    company_url: ''
+    company_url: 'https://www.nus.edu.sg'
     company_logo: nus
     location: Singapore
     date_start: '2019-09-25'
