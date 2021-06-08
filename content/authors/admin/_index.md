@@ -64,7 +64,7 @@ social:
 # and uncomment the lines below.
  - icon: cv
    icon_pack: ai
-   link: static/uploads/Sandeep_reddy_C.pdf
+   url: uploads/Sandeep_reddy_C.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
