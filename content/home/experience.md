@@ -45,6 +45,20 @@ experience:
     date_start: '2019-09-25'
     date_end: '2020-03-13'
     description: Model order reduction for nonlinear evolutions of ocean waves 
+    
+  - title: Doctoral scholar
+    company: National University of Singapore
+    company_url: 'https://www.nus.edu.sg'
+    company_logo: nus
+    location: Singapore
+    date_start: '2015-08-02'
+    date_end: '2019-08-16'
+    description: |2-
+        Data-driven computing for stability analysis and prediction of fluid-structure interaction
+
+        * Data-driven computing for stability analysis of passive suppression 
+        * Hybrid reduced order model for fluid structure interaction
+        * Convolutional recurrent autoencoder networks for complete predic- tion of flow field
 
 design:
   columns: '2'
