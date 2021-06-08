@@ -73,7 +73,7 @@ email: ""
 highlight_name: name
 ---
 
-Sandeep Reddy is a research scientist at [TCOMS](tcoms.sg), Singapore. He is actively involved in developing fast and accurate methods for reconstruction
+Sandeep Reddy is a research scientist at [TCOMS](https://www.tcoms.sg), Singapore. He is actively involved in developing fast and accurate methods for reconstruction
 and propagation of multidirectional ocean wave fields. His works broadly touches upon
 concepts ranging from compressed sensing, sparse representation, model order reduction, proper
 orthogonal decomposition, physics informed A.I and custom made ML networks such as Fourier neural
