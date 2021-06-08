@@ -25,7 +25,7 @@ experience:
   - title: Research Scientist
     company: TCOMS
     company_url: ''
-    company_logo: tcoms
+    company_logo: org-gc
     location: Singapore
     date_start: '16-03-2021'
     date_end: ''
