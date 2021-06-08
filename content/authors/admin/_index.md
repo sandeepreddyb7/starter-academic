@@ -10,7 +10,7 @@ role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: {{< figure src="tcoms.png">}}
+- name: TCOMS
   url: https://tcoms.sg
 
 # Short bio (displayed in user profile at end of posts)
@@ -29,13 +29,13 @@ interests:
 education:
   courses:
   - course: PhD in Data-driven computational fluid mechanics
-    institution: National University of Singapore
+    institution: National University of Singapore {{< figure src="nus.png"}}
     year: 2020
   - course: M.tech in Applied mechanics
-    institution: Indian Institute of Technology, Madras
+    institution: Indian Institute of Technology, Madras {{< figure src="iitm.png"}}
     year: 2015
   - course: B.tech in Naval architecture and Ocean engineering
-    institution: Indian Institute of Technology, Madras
+    institution: Indian Institute of Technology, Madras {{< figure src="iitm.png"}}
     year: 2014
 
 # Social/Academic Networking
