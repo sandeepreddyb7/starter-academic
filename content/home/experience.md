@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Scientist
     company: TCOMS
-    company_url: https://www.tcoms.sg
+    company_url: 'https://www.tcoms.sg'
     company_logo: tcoms
     location: Singapore
     date_start: '16-03-2021'
@@ -38,7 +38,7 @@ experience:
         
   - title: Research Engineer
     company: National University of Singapore
-    company_url: https://www.nus.edu.sg
+    company_url: 'https://www.nus.edu.sg'
     company_logo: nus
     location: Singapore
     date_start: '25-09-2019'
@@ -47,7 +47,7 @@ experience:
     
   - title: Doctoral Scholar
     company: National University of Singapore
-    company_url: https://www.nus.edu.sg
+    company_url: 'https://www.nus.edu.sg'
     ompany_logo: nus
     location: Singapore
     date_start: '16-08-2019'
