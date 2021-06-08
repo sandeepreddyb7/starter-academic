@@ -29,13 +29,13 @@ interests:
 education:
   courses:
   - course: PhD in Data-driven computational fluid mechanics
-    institution: National University of Singapore {{< figure src="nus.png"}}
+    institution: National University of Singapore
     year: 2020
   - course: M.tech in Applied mechanics
-    institution: Indian Institute of Technology, Madras {{< figure src="iitm.png"}}
+    institution: Indian Institute of Technology, Madras 
     year: 2015
   - course: B.tech in Naval architecture and Ocean engineering
-    institution: Indian Institute of Technology, Madras {{< figure src="iitm.png"}}
+    institution: Indian Institute of Technology, Madras 
     year: 2014
 
 # Social/Academic Networking
@@ -67,7 +67,7 @@ social:
 #   link: uploads/Sandeep_reddy_C.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "sandeeprb@tcoms.sg"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: name
