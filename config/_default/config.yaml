@@ -5,7 +5,7 @@
 
 title: 'Sandeep Reddy B' # Website name
 baseurl: 'https://www.sandeepreddyb.net' # Website URL
-copyright: '&copy {2021} SRB' # Footer text, e.g. '© {year} Me'
+copyright: '&copy 2021 SRB' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
