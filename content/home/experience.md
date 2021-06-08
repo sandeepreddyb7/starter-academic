@@ -55,5 +55,5 @@ experience:
     description: Model order reduction for nonlinear ocean wave evolution 
 
 design:
-  columns: '2'
+  columns: '3'
 ---
