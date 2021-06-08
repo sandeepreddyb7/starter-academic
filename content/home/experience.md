@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Research Scientist
     company: TCOMS
-    company_url: 'https://www.tcoms.sg'
+    company_url: ''
     company_logo: tcoms
     location: Singapore
     date_start: '16-03-2021'
@@ -38,21 +38,21 @@ experience:
         
   - title: Research Engineer
     company: National University of Singapore
-    company_url: 'https://www.nus.edu.sg'
+    company_url: ''
     company_logo: nus
     location: Singapore
     date_start: '25-09-2019'
     date_end: '13-03-2020'
     description: Model order reduction for nonlinear ocean wave evolution 
     
-  - title: Doctoral Scholar
-    company: National University of Singapore
-    company_url: 'https://www.nus.edu.sg'
-    ompany_logo: nus
-    location: Singapore
-    date_start: '16-08-2019'
-    date_end: '02-08-2015'
-    description: Model order reduction for nonlinear ocean wave evolution 
+  # - title: Doctoral Scholar
+  #  company: National University of Singapore
+  #  company_url: ''
+  #  ompany_logo: nus
+  #  location: Singapore
+  #  date_start: '16-08-2019'
+  #  date_end: '02-08-2015'
+  #  description: Model order reduction for nonlinear ocean wave evolution 
 
 design:
   columns: '2'
