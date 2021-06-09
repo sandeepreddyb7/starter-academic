@@ -24,8 +24,8 @@ date_format: Jan 2006
 experience:
   - title: Research Scientist
     company: TCOMS
-    company_url: ''
-    company_logo: org-gc
+    company_url: 'https://www.tcoms.sg'
+    company_logo: tcoms
     location: Singapore
     date_start: '2020-03-16'
     date_end: ''
