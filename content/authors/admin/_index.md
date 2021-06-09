@@ -65,9 +65,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: uploads/Sandeep_reddy_C.pdf
-- icon: nus
-  icon_pack: custom
-  link: https://www.nus.edu.sg
+# - icon: nus
+#  icon_pack: custom
+#  link: https://www.nus.edu.sg
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "sandeeprb@tcoms.sg"
