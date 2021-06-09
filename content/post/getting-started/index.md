@@ -42,6 +42,7 @@ categories:
 
 Welcome to my personal homepage. I have been contemplating to create this since a long time and i finally found the time to finish this project. 
 Please forgive for my inexperience in this area since it is completely new to me. I will be slowly uploading and sharing my work via this platform.
+Any suggestions or feedback on this is greatly appreciated. 👍
 
 More updates will follow soon...
 
