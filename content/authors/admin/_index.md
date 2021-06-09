@@ -80,4 +80,6 @@ operators. Prior to TCOMS, sandeep worked as Research Engineer under [Prof Chan 
 
 He spends his free time by doing... 🏃 🥋 🏎️ 🏏 🎦
 
-<img src="/assets/media/iitm.svg" width = "50" height="50"> <img src="/assets/media/nus.svg" width = "50" height="50"> <img src="/assets/media/tcoms.svg" width = "50" height="50">
+<img src="/assets/media/iitm.svg" width = "50" height="50"> 
+<img src="/assets/media/nus.svg" width = "50" height="50"> 
+<img src="/assets/media/tcoms.svg" width = "50" height="50">
