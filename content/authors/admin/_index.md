@@ -64,7 +64,7 @@ social:
 # and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: uploads/Sandeep_reddy_C.pdf
+  link: static/uploads/Sandeep_reddy_C.pdf
 # - icon: nus
 #  icon_pack: custom
 #  link: https://www.nus.edu.sg
