@@ -75,7 +75,9 @@ email: "sandeeprb@tcoms.sg"
 # Highlight the author in author lists? (true/false)
 highlight_name: name
 ---
-I am a research scientist at [TCOMS](https://www.tcoms.sg), Singapore where my research is about developing fast and accurate methods for reconstruction and propagation of multidirectional ocean wave fields. My work broadly touches upon concepts ranging from compressed sensing, sparse representation, model order reduction, proper orthogonal decomposition, physics informed A.I and custom made ML networks such as Fourier neural
+I am a research scientist at [TCOMS](https://www.tcoms.sg), Singapore where i am actively involved in developing fast and accurate methods for reconstruction and propagation of multidirectional ocean wave fields. My work broadly touches upon concepts ranging from compressed sensing, sparse representation, model order reduction, proper orthogonal decomposition, physics informed A.I and custom made ML networks such as Fourier neural
 operators. Prior to TCOMS, I worked as Research Engineer under [Prof Chan Eng Soon](https://www.eng.nus.edu.sg/cee/staff/chan-eng-soon/) and laid the ground work for reduced order modeling of nonlinear evolution of ocean waves. In my doctoral work under [Prof A R Magee](https://www.eng.nus.edu.sg/cee/staff/magee-allan-ross/) and [Prof R K Jaiman](https://mech.ubc.ca/rajeev-jaiman/), I focused on developing data-driven methods for stability analysis and prediction of fluid-structure interaction. As part of my PhD research, I pursued topics ranging from system identification, ERA, Recurrent neural networks, Convolutional neural networks, Proper orthogonal decompisition, data-driven reduced order models. 
 
-In addition to above i also do... 🏃 🥋 🏎️ 🏏 🎦
+Recently i have started out to explore tinyML by registering in an [online course](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning). I am also trying to make myself familiar with [nonlinear ocean waves and IST](https://www.elsevier.com/books/nonlinear-ocean-waves-and-the-inverse-scattering-transform/osborne/978-0-12-528629-9), any help from people familiar with IST would be greatly appreciated. I am always open for any kind of discussion on anything related to my work or any interesting ideas or topics. 
+
+In addition to the above, i try to do... 🏃 🥋 🏎️ 🏏 🎦 in my free time.
