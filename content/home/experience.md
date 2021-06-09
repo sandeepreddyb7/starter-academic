@@ -30,7 +30,7 @@ experience:
     date_start: '2020-03-16'
     date_end: ''
     description: |2-
-        Development of digital twin of deep water ocean basin
+        Development of digital twin of ocean wave environment
         
         * Reconstruction of ocean wave field from instantaneous probe data using the concepts of compressed sensing
         * Reduced order models for fast propagation of multi-directional ocean wave fields
@@ -44,7 +44,7 @@ experience:
     location: Singapore
     date_start: '2019-09-25'
     date_end: '2020-03-13'
-    description: Model order reduction for nonlinear evolutions of ocean waves 
+    description: Model order reduction for nonlinear evolution of ocean waves 
     
   - title: Doctoral scholar
     company: National University of Singapore
