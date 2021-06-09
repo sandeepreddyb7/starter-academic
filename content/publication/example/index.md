@@ -7,6 +7,8 @@ vortex-induced vibration"
 # and it will be replaced with their full name and linked to their profile.
 authors:
 - admin
+- A R Magee
+- R K Jaiman
 
 # Author notes (optional)
 # author_notes:
