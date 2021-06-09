@@ -1,6 +1,8 @@
 ---
 # Display name
 title: Sandeep Reddy B
+ 
+<img src="/assets/media/iitm.svg" width = "100" height="100"> <img src="/assets/media/nus.svg" width = "100" height="100"> <img src="/assets/media/tcoms.svg" width = "100" height="100">
 
 # Is this the primary user of the site?
 superuser: true
@@ -81,4 +83,4 @@ operators. Prior to TCOMS, sandeep worked as Research Engineer under [Prof Chan 
 
 He spends his free time by doing... 🏃 🥋 🏎️ 🏏 🎦
 
-<img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Template for Wowchemy Website Builder" width = "200" height="200">
+
