@@ -29,10 +29,11 @@ publication_types: ["2"]
 publication: In *Journal of Fluid Mechanics*
 publication_short: In *JFM*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In this paper, we present a stability analysis of passive suppression devices for the vortex-induced vibration (VIV) in the laminar flow condition. A data-driven model reduction approach based on the eigensystem realization algorithm is used to construct a reduced-order model in a state-space format. From the stability analysis of the coupled system, two modes are found to be dominant in the phenomenon of self-sustained VIV: namely, the wake mode, with frequency close to that of the wake flow behind a stationary cylinder; and the structure mode, with frequency close to the natural frequency of the elastically mounted cylinder. The present study illustrates that VIV can be suppressed by altering the structure mode via shifting of the eigenvalues from the unstable to the stable region. This finding is realized through the simulations of passive control devices, such as fairings and connected-C devices, wherein the presence of appendages breaks the self-sustenance of the wake–body interaction cycle. A detailed proper orthogonal decomposition analysis is employed to quantify the effect of a fairing on the complex interaction between the wake features. From the assessment of the stability characteristics of appendages, the behaviour of a connected-C device is found to be similar to that of a fairing, and the trajectories of the eigenspectrum are nearly identical, while the eigenspectrum of the cylinder–splitter
+arrangement indicates a galloping behaviour at higher reduced velocities. Finally, we introduce a stability function to characterize the influence of geometric parameters on VIV suppression
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: [stability analysis, data-driven model. VIV suppression, POD]
 
@@ -56,7 +57,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: 'graph abstract'
   focal_point: ""
   preview_only: false
 
@@ -76,12 +77,12 @@ projects:
 slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+# {{% callout note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /callout %}}
 
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
+# {{% callout note %}}
+# Create your slides in Markdown - click the *Slides* button to check out the example.
+# {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+# Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
