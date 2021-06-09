@@ -78,4 +78,4 @@ operators. Prior to TCOMS, sandeep worked as Research Engineer under [Prof Chan 
 
 🏃 🥋 🏎️ 🏏 🎦
 
-{{< icon name="iitm" pack="custom" >}}
+{{< icon name="iitm" icon-pack="custom" >}}
