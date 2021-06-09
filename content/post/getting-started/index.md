@@ -32,7 +32,7 @@ authors:
 - admin
 
 tags:
-- Academic
+- introductory post
 
 categories:
 - introductory post
