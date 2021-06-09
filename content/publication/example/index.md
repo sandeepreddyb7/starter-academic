@@ -13,11 +13,11 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 
-date: "2013-07-01T00:00:00Z"
+date: "2020-01-01T00:00:00Z"
 doi: "10.1017/jfm.2019.1026"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+# publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,8 +29,7 @@ publication_types: ["2"]
 publication: In *Journal of Fluid Mechanics*
 publication_short: In *JFM*
 
-abstract: In this paper, we present a stability analysis of passive suppression devices for the vortex-induced vibration (VIV) in the laminar flow condition. A data-driven model reduction approach based on the eigensystem realization algorithm is used to construct a reduced-order model in a state-space format. From the stability analysis of the coupled system, two modes are found to be dominant in the phenomenon of self-sustained VIV: namely, the wake mode, with frequency close to that of the wake flow behind a stationary cylinder; and the structure mode, with frequency close to the natural frequency of the elastically mounted cylinder. The present study illustrates that VIV can be suppressed by altering the structure mode via shifting of the eigenvalues from the unstable to the stable region. This finding is realized through the simulations of passive control devices, such as fairings and connected-C devices, wherein the presence of appendages breaks the self-sustenance of the wake–body interaction cycle. A detailed proper orthogonal decomposition analysis is employed to quantify the effect of a fairing on the complex interaction between the wake features. From the assessment of the stability characteristics of appendages, the behaviour of a connected-C device is found to be similar to that of a fairing, and the trajectories of the eigenspectrum are nearly identical, while the eigenspectrum of the cylinder–splitter
-arrangement indicates a galloping behaviour at higher reduced velocities. Finally, we introduce a stability function to characterize the influence of geometric parameters on VIV suppression
+abstract: In this paper we present a stability analysis of passive suppression devices for the vortex-induced vibration (VIV) in the laminar flow condition. A data-driven model reduction approach based on the eigensystem realization algorithm is used to construct a reduced-order model in a state-space format. From the stability analysis of the coupled system, two modes are found to be dominant in the phenomenon of self-sustained VIV namely, the wake mode, with frequency close to that of the wake flow behind a stationary cylinder; and the structure mode, with frequency close to the natural frequency of the elastically mounted cylinder. The present study illustrates that VIV can be suppressed by altering the structure mode via shifting of the eigenvalues from the unstable to the stable region. This finding is realized through the simulations of passive control devices, such as fairings and connected-C devices, wherein the presence of appendages breaks the self-sustenance of the wake–body interaction cycle. A detailed proper orthogonal decomposition analysis is employed to quantify the effect of a fairing on the complex interaction between the wake features. From the assessment of the stability characteristics of appendages, the behaviour of a connected-C device is found to be similar to that of a fairing, and the trajectories of the eigenspectrum are nearly identical, while the eigenspectrum of the cylinder–splitter arrangement indicates a galloping behaviour at higher reduced velocities. Finally, we introduce a stability function to characterize the influence of geometric parameters on VIV suppression.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
