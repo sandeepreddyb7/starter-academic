@@ -1,9 +1,9 @@
 ---
 title: Hello World
-subtitle: Welcome to my personal home page.
+subtitle: Welcome to my personal homepage.
 
 # Summary for listings and search engines
-summary: Welcome to my personal home page.
+summary: Welcome to my personal homepage.
 
 # Link this post with a project
 projects: []
