@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://coursera.org/share/371d0330934c97ccf622baeaf8b280f2
   date_end: ""
-  date_start: "2021-01-25"
+  date_start: "2019-11-04"
   description: ""
   organization: Coursera
   organization_url: https://www.coursera.org
@@ -33,20 +33,20 @@ item:
   url: ""
 - certificate_url: https://coursera.org/share/1aedebdbfde93d58a7380d7d762d4c65
   date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
+  date_start: "2019-10-18"
+  description: ""
+  organization: Coursera
   organization_url: https://www.coursera.org
   title: Tensorflow developer
   url: ""
-- certificate_url: https://www.datacamp.com
-  date_end: "2020-12-21"
-  date_start: "2020-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R'
-  url: ""
+# - certificate_url: https://www.datacamp.com
+#  date_end: "2020-12-21"
+#  date_start: "2020-07-01"
+#  description: ""
+#  organization: DataCamp
+#  organization_url: https://www.datacamp.com
+#  title: 'Object-Oriented Programming in R'
+#  url: ""
 
 design:
   columns: '2' 
