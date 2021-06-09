@@ -34,7 +34,7 @@ abstract: In this paper we present a stability analysis of passive suppression d
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [stability analysis, data-driven model. VIV suppression, POD]
+tags: [stability analysis, data-driven model, VIV suppression, POD]
 
 # Display this page in the Featured widget?
 featured: true
