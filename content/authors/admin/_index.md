@@ -65,6 +65,9 @@ social:
 - icon: cv
   icon_pack: ai
   link: uploads/Sandeep_reddy_C.pdf
+- icon: nus
+  icon_pack: custom
+  link: https://www.nus.edu.sg
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "sandeeprb@tcoms.sg"
@@ -76,6 +79,6 @@ highlight_name: name
 Sandeep Reddy is a research scientist at [TCOMS](https://www.tcoms.sg), Singapore. He is actively involved in developing fast and accurate methods for reconstruction and propagation of multidirectional ocean wave fields. His works broadly touches upon concepts ranging from compressed sensing, sparse representation, model order reduction, proper orthogonal decomposition, physics informed A.I and custom made ML networks such as Fourier neural
 operators. Prior to TCOMS, sandeep worked as Research Engineer under [Prof Chan Eng Soon](https://www.eng.nus.edu.sg/cee/staff/chan-eng-soon/) and laid the ground work for reduced order modeling of nonlinear ocean wave evolution. In his doctoral work under [Prof A R Magee](https://www.eng.nus.edu.sg/cee/staff/magee-allan-ross/) and [Prof R K Jaiman](https://mech.ubc.ca/rajeev-jaiman/), Sandeep focused on developing data-driven methods for stability analysis and prediction of fluid-structure interaction. As part of his PhD research, Sandeep pursued topics ranging from system identification, ERA, Recurrent neural networks, Convolutional neural networks, Proper orthogonal decompisition, data-driven reduced order models. 
 
-In free time, i pursue... 🏃 🥋 🏎️ 🏏 🎦 ##🚙##
+He spends his free time by doing... 🏃 🥋 🏎️ 🏏 🎦
 
 {{< icon="iitm" icon-pack="custom" >}}
