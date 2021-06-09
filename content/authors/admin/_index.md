@@ -81,4 +81,4 @@ operators. Prior to TCOMS, sandeep worked as Research Engineer under [Prof Chan 
 
 He spends his free time by doing... 🏃 🥋 🏎️ 🏏 🎦
 
-{{< icon name="terminal" pack="fas" >}} Terminal 
+{{< icon name="nus" pack="custom" >}} Terminal 
