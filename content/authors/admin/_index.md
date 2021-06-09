@@ -81,4 +81,4 @@ operators. Prior to TCOMS, sandeep worked as Research Engineer under [Prof Chan 
 
 He spends his free time by doing... 🏃 🥋 🏎️ 🏏 🎦
 
-{{< icon name="nus" pack="custom" >}} Terminal 
+<img src="https://wowchemy.com/uploads/readmes/academic_logo_200px.png" alt="Hugo Academic Template for Wowchemy Website Builder" width = "200" height="200">
