@@ -6,12 +6,12 @@ title: Sandeep Reddy B
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist
+role: Postdoctoral Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: TCOMS
-  url: https://tcoms.sg
+- name: Max Planck Institute for Dynamics of Complex Technical Systems 
+  url: https://www.mpi-magdeburg.mpg.de/person/114724/842836
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include data-driven computing, model order reduction, physics informed A.I and nonlinear systems.
@@ -19,9 +19,9 @@ bio: My research interests include data-driven computing, model order reduction,
 # Interests to show in About widget
 interests:
 - Machine learning/ Deep learning
+- Physics-informed A.I.
 - Model order reduction
 - Nonlinear dynamics
-- Inverse scattering transform
 - Applied mathematics
 - Computational physics
 
@@ -70,14 +70,14 @@ social:
 #  link: https://www.nus.edu.sg
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "sandeeprb@tcoms.sg"
+email: "bukka@mpi-magdeburg.mpg.de"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: name
 ---
-I am a research scientist at [TCOMS](https://www.tcoms.sg), Singapore where i am actively involved in developing fast and accurate methods for reconstruction and propagation of multidirectional ocean wave fields. My work broadly touches upon concepts ranging from compressed sensing, sparse representation, model order reduction, proper orthogonal decomposition, physics informed A.I and custom made ML networks such as Fourier neural
-operators. Prior to TCOMS, I worked as Research Engineer under [Prof Chan Eng Soon](https://www.eng.nus.edu.sg/cee/staff/chan-eng-soon/) and laid the ground work for reduced order modeling of nonlinear evolution of ocean waves. In my doctoral work under [Prof A R Magee](https://www.eng.nus.edu.sg/cee/staff/magee-allan-ross/) and [Prof R K Jaiman](https://mech.ubc.ca/rajeev-jaiman/), I focused on developing data-driven methods for stability analysis and prediction of fluid-structure interaction. As part of my PhD research, I pursued topics ranging from system identification, ERA, Recurrent neural networks, Convolutional neural networks, Proper orthogonal decompisition, data-driven reduced order models. 
+I am a postdoctoral research scientist at [Max Planck Institute](https://www.mpi-magdeburg.mpg.de/person/114724/842836), Germany where i am actively involved in developing  innovative methods for discovery of parsimonious nonlinear dynamical models using the concepts from scientific machine learning. I am also part of Max Planck research network on big data-driven material science [BiGmax](https://www.bigmax.mpg.de/scope). 
+Prior to MPI, I worked as a research scientist at [TCOMS](https://www.tcoms.sg) under [Prof Chan Eng Soon](https://www.eng.nus.edu.sg/cee/staff/chan-eng-soon/) and developed fast and accurate methods for reconstruction and propagation of multidirectional ocean wave fields. My work at TCOMS broadly touched upon concepts ranging from compressed sensing, sparse representation, model order reduction, proper orthogonal decomposition, physics informed A.I and custom made ML networks such as Fourier neural operators. In my doctoral work under [Prof A R Magee](https://www.eng.nus.edu.sg/cee/staff/magee-allan-ross/) and [Prof R K Jaiman](https://mech.ubc.ca/rajeev-jaiman/), I focused on developing data-driven methods for stability analysis and prediction of fluid-structure interaction. As part of my PhD research, I pursued topics ranging from system identification, ERA, Recurrent neural networks, Convolutional neural networks, Proper orthogonal decompisition and data-driven reduced order models. 
 
-Recently i have started out to explore tinyML by registering in an [online course](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning). I am also trying to make myself familiar with [nonlinear ocean waves and IST](https://www.elsevier.com/books/nonlinear-ocean-waves-and-the-inverse-scattering-transform/osborne/978-0-12-528629-9), any help from people familiar with IST would be greatly appreciated. I am always open for any kind of discussion on anything related to my work or any interesting ideas or topics. 
+I am always open for any kind of discussion on anything related to my work or any interesting ideas or topics. 
 
 In addition to the above, i try to do... 🏃 🥋 🏎️ 🏏 🎦 in my free time.
