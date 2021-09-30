@@ -22,13 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Postdoctoral Research Scientist
+    company: Max Planck Institute for Dynamics of Complex Technical Systems 
+    company_url: 'https://www.mpi-magdeburg.mpg.de/2316/en'
+    company_logo: tcoms
+    location: Magdeburg, Germany
+    date_start: '2021-09-01'
+    date_end: ''
+    description: Developmemt of parsimonious dynamical models using scientific machine learning.
+        
+       
+        
   - title: Research Scientist
     company: TCOMS
     company_url: 'https://www.tcoms.sg'
     company_logo: tcoms
     location: Singapore
     date_start: '2020-03-16'
-    date_end: ''
+    date_end: '2021-08-27'
     description: |2-
         Development of digital twin of ocean wave environment
         
