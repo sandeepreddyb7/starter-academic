@@ -25,7 +25,7 @@ experience:
   - title: Postdoctoral Research Scientist
     company: Max Planck Institute for Dynamics of Complex Technical Systems 
     company_url: 'https://www.mpi-magdeburg.mpg.de/2316/en'
-    company_logo: tcoms
+    company_logo: mpi
     location: Magdeburg, Germany
     date_start: '2021-09-01'
     date_end: ''
