@@ -29,7 +29,12 @@ experience:
     location: Magdeburg, Germany
     date_start: '2021-09-01'
     date_end: ''
-    description: Developmemt of parsimonious dynamical models using scientific machine learning.
+    description: |2-
+      Physics Enhanced Machine Learning
+      
+      * Developmemt of parsimonious dynamical models using scientific machine learning.
+      * Discovery of physically interpretable continuum models of materials science from experimental data
+      
         
        
         
