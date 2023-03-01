@@ -23,9 +23,9 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
   - title: Research Scientist
-    company: LRST supporting NETL 
+    company: National Energy Technology Laboratory (NETL) 
     company_url: 'https://netl.doe.gov'
-    company_logo: netl_lrst
+    company_logo: NETL
     location: Pittsburgh, USA
     date_start: '2023-01-30'
     date_end: ''
