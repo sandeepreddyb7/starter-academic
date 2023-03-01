@@ -25,7 +25,7 @@ experience:
   - title: Research Scientist
     company: LRST supporting NETL 
     company_url: 'https://netl.doe.gov'
-    company_logo: mpg
+    company_logo: netl_lrst
     location: Pittsburgh, USA
     date_start: '2023-01-30'
     date_end: ''
