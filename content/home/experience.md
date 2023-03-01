@@ -36,20 +36,6 @@ experience:
       * This project carries a lot of national significance because it directly enables DOE to address the Nation’s energy challenges via innovative technological solutions, which will be developed at NETL as part of this contract
       * Part of a big collaborative team with people from diverse backgrounds and experiences.
       * Technical lead and PoC for the development of digital twin of natural gas pipeline and directly responsible or all the efforts on combining A.I. with numerical simulations.
-     
-      
-  - title: Postdoctoral Research Scientist
-    company: Max Planck Institute for Dynamics of Complex Technical Systems 
-    company_url: 'https://www.mpi-magdeburg.mpg.de/2316/en'
-    company_logo: mpg
-    location: Magdeburg, Germany
-    date_start: '2021-09-01'
-    date_end: '2022-09-30'
-    description: |2-
-      Physics Enhanced Machine Learning
-      
-      * Developmemt of parsimonious dynamical models using scientific machine learning.
-      * Discovery of physically interpretable continuum models of materials science from experimental data
       
       
   - title: Scientist
