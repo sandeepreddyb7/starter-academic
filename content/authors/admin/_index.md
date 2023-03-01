@@ -6,12 +6,12 @@ title: Sandeep Reddy B
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Scientist
+role: Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Max Planck Institute for Dynamics of Complex Technical Systems 
-  url: https://www.mpi-magdeburg.mpg.de/person/114724/842836
+- name: National Energy Technology Laboratory (NETL) 
+  url: https://netl.doe.gov
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include data-driven computing, model order reduction, physics informed A.I and nonlinear systems.
@@ -70,7 +70,7 @@ social:
 #  link: https://www.nus.edu.sg
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "bukka@mpi-magdeburg.mpg.de"
+email: "sandeep.bukka@netl.doe.gov"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: name
