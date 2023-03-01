@@ -25,6 +25,6 @@ main:
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: Résumé
-    url: uploads/Sandeep_resume_latest_Germany-5.pdf
+  - name: CV
+    url: uploads/Sandeep_latest_CV_public.pdf
     weight: 70
