@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-- title: Research Scientist
+  - title: Research Scientist
     company: LRST supporting NETL 
     company_url: 'https://netl.doe.gov'
     company_logo: mpg
@@ -30,13 +30,26 @@ experience:
     date_start: '2023-01-30'
     date_end: ''
     description: |2-
-      Intelligent sensing and monitoring of natural gas piplelines
+        Intelligent sensing and monitoring of natural gas piplelines
  
-      * Supporting Leidos in executing a mulit-year and multi-million dollar research service support (RSS) contract with Department of Energy (DOE) at National Energy Technology Laboratory (NETL),pittsburgh
-      * This project carries a lot of national significance because it directly enables DOE to address the Nation’s energy challenges via innovative technological solutions, which will be developed at NETL as part of this contract
-      * Part of a big collaborative team with people from diverse backgrounds and experiences.
-      * Technical lead and PoC for the development of digital twin of natural gas pipeline and directly responsible or all the efforts on combining A.I. with numerical simulations.
+        * Supporting Leidos in executing a mulit-year and multi-million dollar research service support (RSS) contract with Department of Energy (DOE) at National Energy Technology Laboratory (NETL),pittsburgh
+        * This project carries a lot of national significance because it directly enables DOE to address the Nation’s energy challenges via innovative technological solutions, which will be developed at NETL as part of this contract
+        * Part of a big collaborative team with people from diverse backgrounds and experiences.
+        * Technical lead and PoC for the development of digital twin of natural gas pipeline and directly responsible or all the efforts on combining A.I. with numerical simulations.
       
+      
+  - title: Postdoctoral Research Scientist
+    company: Max Planck Institute for Dynamics of Complex Technical Systems 
+    company_url: 'https://www.mpi-magdeburg.mpg.de/2316/en'
+    company_logo: mpg
+    location: Magdeburg, Germany
+    date_start: '2021-09-01'
+    date_end: '2022-09-30'
+    description: |2-
+        Physics Enhanced Machine Learning
+      
+        * Developmemt of parsimonious dynamical models using scientific machine learning.
+        * Discovery of physically interpretable continuum models of materials science from experimental data
       
   - title: Scientist
     company: TCOMS
